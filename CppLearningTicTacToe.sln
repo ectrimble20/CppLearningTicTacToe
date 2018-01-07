@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CppLearningTicTacToe", "CppLearningTicTacToe\CppLearningTicTacToe.vcxproj", "{8AF3EB0D-9E71-441C-9E4B-5893B1B5711D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AF3EB0D-9E71-441C-9E4B-5893B1B5711D}.Debug|x64.ActiveCfg = Debug|x64
+		{8AF3EB0D-9E71-441C-9E4B-5893B1B5711D}.Debug|x64.Build.0 = Debug|x64
+		{8AF3EB0D-9E71-441C-9E4B-5893B1B5711D}.Debug|x86.ActiveCfg = Debug|Win32
+		{8AF3EB0D-9E71-441C-9E4B-5893B1B5711D}.Debug|x86.Build.0 = Debug|Win32
+		{8AF3EB0D-9E71-441C-9E4B-5893B1B5711D}.Release|x64.ActiveCfg = Release|x64
+		{8AF3EB0D-9E71-441C-9E4B-5893B1B5711D}.Release|x64.Build.0 = Release|x64
+		{8AF3EB0D-9E71-441C-9E4B-5893B1B5711D}.Release|x86.ActiveCfg = Release|Win32
+		{8AF3EB0D-9E71-441C-9E4B-5893B1B5711D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B89E70B8-E598-46B4-BB64-708C02CBBD89}
+	EndGlobalSection
+EndGlobal
